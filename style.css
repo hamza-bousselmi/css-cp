@@ -1,0 +1,27 @@
+#type{
+    color: rgb(152, 193, 180); 
+} 
+.got{
+text-decoration: underline;  
+color: salmon;
+font-style: italic;
+} 
+.hjk{ 
+    text-decoration: underline;
+    font-style: italic; 
+    font-size: larger;
+    color: rgb(210, 88, 88);
+
+}
+.h3 {
+    color : rgb(203, 50, 111) ;
+    text-decoration: underline;
+} 
+.data {
+    font-style: oblique;
+}  
+.strong{
+    color : rgb(203, 50, 111)  ;
+    text-decoration: underline;
+
+} 
